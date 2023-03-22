@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProiectCS", "ProiectCS\ProiectCS.csproj", "{780034EF-411B-4852-89BC-1F4CE827B2D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "festivalModel", "festivalModel\festivalModel.csproj", "{0AD8F04E-C894-4B3B-B589-A40BE0C4F5E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "festivalNetworking", "festivalNetworking\festivalNetworking.csproj", "{CBCD5B28-5291-4FDD-83EF-277BBA95D679}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "festivalServices", "festivalServices\festivalServices.csproj", "{F8C9F142-38D8-435D-8ABB-075035A97A1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "festivalPersistence", "festivalPersistence\festivalPersistence.csproj", "{AC8BB19E-B5F7-4A60-B44C-63EA4F266142}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "festivalServer", "festivalServer\festivalServer.csproj", "{F018E501-45B1-4ACF-9E94-C7994728D6A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "festivalClientForm", "festivalClientForm\festivalClientForm.csproj", "{7F074B5C-FE32-403D-8844-607AFC32BE93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{780034EF-411B-4852-89BC-1F4CE827B2D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{780034EF-411B-4852-89BC-1F4CE827B2D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{780034EF-411B-4852-89BC-1F4CE827B2D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{780034EF-411B-4852-89BC-1F4CE827B2D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AD8F04E-C894-4B3B-B589-A40BE0C4F5E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AD8F04E-C894-4B3B-B589-A40BE0C4F5E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AD8F04E-C894-4B3B-B589-A40BE0C4F5E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AD8F04E-C894-4B3B-B589-A40BE0C4F5E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBCD5B28-5291-4FDD-83EF-277BBA95D679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBCD5B28-5291-4FDD-83EF-277BBA95D679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBCD5B28-5291-4FDD-83EF-277BBA95D679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBCD5B28-5291-4FDD-83EF-277BBA95D679}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8C9F142-38D8-435D-8ABB-075035A97A1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8C9F142-38D8-435D-8ABB-075035A97A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8C9F142-38D8-435D-8ABB-075035A97A1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8C9F142-38D8-435D-8ABB-075035A97A1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC8BB19E-B5F7-4A60-B44C-63EA4F266142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC8BB19E-B5F7-4A60-B44C-63EA4F266142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC8BB19E-B5F7-4A60-B44C-63EA4F266142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC8BB19E-B5F7-4A60-B44C-63EA4F266142}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F018E501-45B1-4ACF-9E94-C7994728D6A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F018E501-45B1-4ACF-9E94-C7994728D6A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F018E501-45B1-4ACF-9E94-C7994728D6A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F018E501-45B1-4ACF-9E94-C7994728D6A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F074B5C-FE32-403D-8844-607AFC32BE93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F074B5C-FE32-403D-8844-607AFC32BE93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F074B5C-FE32-403D-8844-607AFC32BE93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F074B5C-FE32-403D-8844-607AFC32BE93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {289D2CE3-4E24-47F5-A4E2-346461DC4C78}
+	EndGlobalSection
+EndGlobal
